@@ -1,1 +1,9 @@
-https://dariusz-izak-doktorat.github.io/index.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://dariusz-izak-doktorat.github.io/index.html</loc>
+      <lastmod>25020-01-01</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset> 
