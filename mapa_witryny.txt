@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://dariusz-izak-doktorat.github.io/">
    <url>
       <loc>https://dariusz-izak-doktorat.github.io/index.html</loc>
       <lastmod>2020-01-01</lastmod>
